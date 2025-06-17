@@ -21,5 +21,5 @@ A={a, b, 0, 1}
 
 ## Список использованных источников
 
-[Документация truing_machine](https://github.com/dimazest/turing_machine/blob/master/Turing%20machine.ipynb)
+[Документация truing_machine](https://github.com/dimazest/turing_machine/blob/master/Turing%20machine.ipynb)   
 [Задачник по машинам Тьюринга и алгоритмам Маркова](https://cmcmsu.info/download/cmc.mt.markov.tasks.2016.pdf)
